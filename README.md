@@ -9,7 +9,7 @@ This repository is about markdown and examples for it ,
 
 <img align="center" src="Img/The Markdown Guide.png" width="300" heght="300"/>
 
-<br>
+<br><br>
 
 I summarize the book for The Markdown Guide to Matt Cone and take the examples from this book to me which i can remember this examples in my work on github projects and to who want to study markdown to be good in write `README.md` file on projects on github, Enjoys 😉.
 
@@ -628,7 +628,7 @@ The output :
 1. Open the file containing Tux, the Linux mascot.
 2. Marvel at its beauty.
 
-![Tux](images/tux.png)
+![Tux](https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Linux.png)
 
 3. Close the file.
 ```
@@ -639,7 +639,7 @@ The output :
   <li><p>Open the file containing Tux, the Linux mascot.</p></li>
   <li>
     <p>Marvel at its beauty.</p>
-    <p><img src="images/tux.png" alt="Tux" /></p>
+    <p><img src="https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Linux.png" alt="Tux" /></p>
   </li>
   <li><p>Close the file.</p></li>
 </ol>
@@ -651,7 +651,7 @@ The output :
   <li><p>Open the file containing Tux, the Linux mascot.</p></li>
   <li>
     <p>Marvel at its beauty.</p>
-    <p><img src="img/Linux.png" alt="Linux" /></p>
+    <p><img src="https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Linux.png" alt="Linux" /></p>
   </li>
   <li><p>Close the file.</p></li>
 </ol>
@@ -834,21 +834,18 @@ This is the _[EFF](https://eff.org)_.
 
 `Markdown :`
 ```markdown
-![Computer Science map](img/Computer%20Science%20map.png "Computer Science map")
+![Computer Science map](https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Computer%20Science%20map.png "Computer Science map")
 ```
 
 `html :`
 ```html
-<img
-  src="img/Computer Science road.png"
-  alt="Computer Science map"
-  title="Computer Science map"
+<img src="https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Computer%20Science%20map.png" alt="Computer Science map" title="Computer Science map"
 />
 ```
 
 The output :
 
-![Computer Science map](img/Computer%20Science%20map.png "Computer Science map")
+![Computer Science map](https://github.com/ahmedbadawihosny/GitHub-Markdown-Guide/blob/main/Img/Computer%20Science%20map.png "Computer Science map")
 
 <br>
 <hr>
