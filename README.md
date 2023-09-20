@@ -1,17 +1,15 @@
-<p align="center">
-  <h1>GitHub Markdown Guide</h1>
-</p>
+<h1 align="center">GitHub Markdown Guide</h1>
 
 <p>
 This repository is about markdown and examples for it ,
 
-<br>
+<br><br>
 
 <img align="center" src="Img/The Markdown Guide.png" width="300" heght="300"/>
 
 <br><br>
 
-I summarize the book for The Markdown Guide to Matt Cone and take the examples from this book to me which i can remember this examples in my work on github projects and to who want to study markdown to be good in write `README.md` file on projects on github, Enjoys 😉.
+I summarize the book for The Markdown Guide to Matt Cone and take the examples from this book to me which i can remember this examples in my work on github projects and to who want to study markdown the markup language and to be good in write `README.md` file on projects on github, Enjoy 😉.
 
 </p>
 
