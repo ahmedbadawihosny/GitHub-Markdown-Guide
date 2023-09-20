@@ -1,7 +1,7 @@
 <h1 align="center">GitHub Markdown Guide</h1>
 
 <p>
-This repository is about markdown and examples for it ,
+This repository is about markdown and examples for it
 
 <br><br>
 
