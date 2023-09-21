@@ -1,7 +1,16 @@
 <h1 align="center">GitHub Markdown Guide</h1>
 
-<p>
 This repository is about markdown and examples for it
+
+<p> 
+
+<img src="https://komarev.com/ghpvc/?username=GitHub-Markdown-Guide&label=Repo%20views&color=0e75b6&style=plastic?" alt="ahmedbadawi" height=22px, width=120px/> 
+
+<img src="https://wakatime.com/badge/user/7b25de75-36ac-4547-92eb-ff91900f7e85/project/4c099526-df3b-4b8c-b249-401056df67b1.svg" alt="ahmedbadawi" height=23px, width=125px/>
+
+</p>
+
+<p>
 
 <br><br>
 
